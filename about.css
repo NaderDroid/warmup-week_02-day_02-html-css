@@ -1,0 +1,69 @@
+body {
+    border-top : 10px solid black;
+    border-bottom : 10px solid black;
+    font-family: sans-serif;
+
+}
+.nav-part {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.nav-part strong {
+    font-style: italic;
+}
+.nav-part a {
+    color: black;
+}
+
+main {
+    width : 80% ;
+    margin: 0 auto;
+
+}
+main p {
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+main h2 {
+    font-weight: bolder;
+    font-size: 30px;
+}
+main section {
+    margin-top: 13px;
+    margin-bottom: 0px;
+}
+main section h3 {
+    font-weight: 500;
+    font-size: 22px;
+}
+main section span {
+    font-size: 15px;
+    font-weight: bold;
+}
+main section span span {
+    font-size: 10px;
+}
+main section p {
+    font-size: 18px;
+}
+main section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    padding: 5px;
+}
+main nav {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+main nav a {
+    color: black;
+}
+main section h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
